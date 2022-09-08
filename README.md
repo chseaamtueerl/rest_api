@@ -4,7 +4,7 @@
 * Pre spustenie je potrebné mať v počítači nainštalovaný python3
 * Git clone - stiahnutie repozitára
    ```bash
-    git clone git@github.com:gitgik/flask-rest-api.git
+    https://github.com/chseaamtueerl/rest_api.git
     ```
 
 * ### Dependencies
@@ -13,4 +13,6 @@
     pip install -r requirements.txt 
     ```
 
-* 
+## Spustenie programu
+ ```bash
+    python3 api.py 
